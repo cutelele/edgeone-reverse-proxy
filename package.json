@@ -1,6 +1,7 @@
 {
   "name": "edgeone-reverse-proxy",
-  "version": "1.0.0",
-  "description": "EdgeOne Pages Functions 反向代理 - 基于 Edge Functions 实现轻量级反代",
-  "private": true
+  "version": "2.0.0",
+  "description": "EdgeOne Pages Cloud Function (Node.js) 反向代理 - 支持大文件/流媒体",
+  "private": true,
+  "dependencies": {}
 }
