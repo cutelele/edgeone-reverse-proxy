@@ -11,7 +11,7 @@
 
 // 伪装域名列表 - 在此填写你的节点域名
 const PROXY_TARGETS = [
-  'your-space.domain',
+  'ikefon-hugood.hf.space',
 ];
 
 // 是否开启流式传输（流媒体/大文件必须开启）
